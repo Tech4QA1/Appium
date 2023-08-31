@@ -18,15 +18,15 @@ Continuous Integration (CI) support: Appium can be easily integrated with popula
 
 ## Configuration on windows and Mac 
 
-## You may be using [Tech4QA](https//:tech4qa.com/).
+## You may be using [Tech4QA](https://tech4qa.com/services/mobile-testing/).
 
 ## Methods Tables
 
 | iOS           | Android       |
 | ------------- |:-------------:|
-|               | right foo     |
-| left bar      | right bar     |
-| left baz      | right baz     |
+|   click()     | click()       |
+| submit()      | submit()      |
+| navigate().back() | navigate().back()   |
 
 
 ## Part of Setup
